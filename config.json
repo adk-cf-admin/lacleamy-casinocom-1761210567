@@ -117,8 +117,8 @@
             "knowMore": "Know more",
             "appTitle": "Casino du Lac-Leamy App",
             "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/191",
-            "imageSizeModifier": -50,
-            "imageYModifier": 3,
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
             "imageXModifier": 0,
             "mobileAlt": "Casino du Lac-Leamy App",
             "mobileGooglePlayImageTitle": "Casino du Lac-Leamy App",
@@ -140,9 +140,9 @@
                 ],
                 "description2": "Casino du Lac-Leamy is a luxury entertainment complex in Gatineau, Canada, offering over 1,800 slot machines, dozens of poker and table games, a live show theater, Hilton hotel, spa, and fine dining. The casino is known for massive jackpots \u2014 up to $2.5 million \u2014 and generous player bonuses.",
                 "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/192",
-                "imageSizeModifier": 20,
-                "imageYModifier": -5,
-                "imageXModifier": -5,
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
                 "imageAlt": "History",
                 "description3": ""
             }

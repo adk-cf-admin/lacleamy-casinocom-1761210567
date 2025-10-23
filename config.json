@@ -1,0 +1,197 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#262D6D",
+            "lang-select-color": "#222829",
+            "bg-light": "#262D6D",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#deeadf",
+            "main-bg": "#F4F4F4",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#262D6D",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#FF522C",
+            "yellow": "#F9F522",
+            "yellow-button": "#FF522C",
+            "button-text": "#262D6D",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#4f57a1",
+            "faq-label": "#4f57a1",
+            "bg-footer": "#262D6D",
+            "copyright": "#e7e7d5",
+            "starColor": "#FF522C",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/9",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Casino du Lac-Leamy",
+            "title": "Casino du Lac-Leamy: Casino, Shows, Hotel & Bonuses \u2013 Everything for a Perfect Getaway",
+            "description": "Discover Casino du Lac-Leamy \u2013 one of Canada\u2019s top casinos offering slot machines, table games, live shows, fine dining, Hilton hotel accommodations, and a rewarding loyalty program. Explore bonuses, promotions, and unforgettable entertainment.",
+            "canonical": "lacleamy-casino.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/188",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/189",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/187"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/186",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Casino du Lac-Leamy Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Casino du Lac-Leamy \u2013 Gaming, Entertainment, Luxury and VIP Experiences in the Heart of Quebec",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/184",
+            "imageSizeModifier": 20,
+            "imageYModifier": -5,
+            "imageXModifier": -3,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/193",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 1,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Luxury Hilton hotel next to casino",
+                "Over 1800 slots and 65 tables",
+                "Fine dining with award-winning cuisine",
+                "Live shows and concerts in theater",
+                "Loyalty program with perks and discounts",
+                "Spa, pools, and fitness facilities",
+                "Scenic lake views and nature setting"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Casino du Lac-Leamy App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/191",
+            "imageSizeModifier": -50,
+            "imageYModifier": 3,
+            "imageXModifier": 0,
+            "mobileAlt": "Casino du Lac-Leamy App",
+            "mobileGooglePlayImageTitle": "Casino du Lac-Leamy App",
+            "mobileIosImageTitle": "Casino du Lac-Leamy App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Casino du Lac-Leamy",
+                "description1": "",
+                "items": [
+                    "Jackpots up to $2.5 million",
+                    "Welcome bonus: $7,500 + spins",
+                    "Poker wins with bonus hands"
+                ],
+                "description2": "Casino du Lac-Leamy is a luxury entertainment complex in Gatineau, Canada, offering over 1,800 slot machines, dozens of poker and table games, a live show theater, Hilton hotel, spa, and fine dining. The casino is known for massive jackpots \u2014 up to $2.5 million \u2014 and generous player bonuses.",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/192",
+                "imageSizeModifier": 20,
+                "imageYModifier": -5,
+                "imageXModifier": -5,
+                "imageAlt": "History",
+                "description3": ""
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Casino du Lac-Leamy: Excitement and Luxury",
+                "description": "<p>Casino du Lac-Leamy is one of Canada\u2019s most prestigious entertainment complexes, located in the scenic Gatineau area, just minutes from downtown Ottawa. It blends excitement, comfort, and style, offering guests a unique combination of casino, hotel, fine dining, and live entertainment .<\/p>\n<br>\n<p>The casino spans over 70,000 square feet and features more than 1,800 slot machines, including classic slots, video slots, and progressive jackpots. It also offers over 60 live dealer tables, including blackjack, roulette, baccarat, poker, and other popular games. Poker enthusiasts can enjoy a dedicated poker room with 16 tables, open 24\/7 on weekends. A special highlight is The Zone \u2014 an interactive space with 50 electronic terminals, where guests can play together in a vibrant light-and-sound atmosphere.<\/p>\n<br>\n<p>The adjacent Hilton Lac-Leamy Hotel offers over 300 rooms and suites, including access to the Amerispa wellness center, indoor and outdoor pools, a fitness room, and the lake. Guests can choose from various packages: romantic dinners, spa treatments, golf tours, or casino chip nights.<\/p>\n<br>\n<p>The property features four bars and five restaurants. Among them are Le Baccara, known for its award-winning fine cuisine, and Ar\u00f4me, which serves seafood, grilled meats, and local delicacies. Bar 7 is the nightlife hub, hosting themed parties, live performances, DJ sets, and mini blackjack tournaments. Every Friday and Saturday features live music, while Thursdays are dedicated to Latin dance nights.<\/p>\n<br>\n<p>Entertainment includes concerts, theatrical performances, and shows at the Th\u00e9\u00e2tre du Casino, a 1,100-seat venue. Both local artists and international stars perform here, including tribute shows and symphonic programs.<\/p>\n<br>\n<p>The Casino Privil\u00e8ges Club loyalty program offers four tiers, from Basic to Prestige Plus. Players earn points for every bet \u2014 $1 on slots equals 1 point. To reach Prestige Plus, one must earn 400,000 points annually, equivalent to $400,000 in wagers. Members receive exclusive offers, discounts, invitations to private events, and personalized bonuses.<\/p>\n<br>\n<p>Casino du Lac-Leamy is more than just a gaming destination \u2014 it\u2019s a full-scale resort where everyone can find something to enjoy: from thrilling games and gourmet dining to relaxation and cultural experiences. It\u2019s the perfect place for a weekend getaway, vacation, or unforgettable night out.<\/p>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino du Lac-Leamy \u2013 Visitor Rules and Regulations\n<\/h3>\n\n\n<br>\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Age Restrictions<\/h4>\n            <ul>\n            <li>\u2022 Entry is allowed only for guests aged 18 and over.<\/li>\n            <li>\u2022 A valid photo ID is required at the entrance.<\/li>\n         \n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dress Code<\/h4>\n          <ul>\n            <li>\u2022 No formal dress code, but neat attire is recommended.<\/li>\n            <li>\u2022 Flip-flops, beachwear, and athletic clothing may be inappropriate during evening hours.\n<\/li>\n          \n        <\/ul>\n<br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Personal Belongings & Security<\/h4>\n        <ul>\n            <li>\u2022 Helmets, large bags, and backpacks must be checked or stored in lockers.<\/li>\n            <li>\u2022 Photography and video recording inside the casino are prohibited without permission.<\/li>\n           \n        <\/ul>\n        <br>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Currency & Betting<\/h4>\n        <ul>\n            <li>\u2022 Both Canadian and U.S. currency are accepted.\n<\/li>\n            <li>\u2022 Minimum bets start at $0.01 on slots.\n\n<\/li>\n    \n        <\/ul>\n        <br>\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Operating Hours<\/h4>\n        <ul>\n            <li>\u2022 <b>Casino hours:<\/b>\n<br>\nSunday\u2013Thursday: 9:00 AM \u2013 3:00 AM<br>\nFriday\u2013Saturday: 9:00 AM \u2013 5:00 AM<\/li>\n            <li>\u2022 <b>Table games:<b><br>\n\nMon\u2013Thu: 11:00 AM \u2013 12:00 AM<br>\nFri: until 2:00 AM<br>\nSat\u2013Sun: 10:00 AM \u2013 2:00 AM.<\/li>\n           \n        <\/ul>\n        \n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino Privil\u00e8ges Club: Casino du Lac-Leamy Loyalty Program\n<\/h3>\n\n<p> Casino du Lac-Leamy offers its guests an exclusive loyalty program \u2014 the Casino Privil\u00e8ges Club, designed to make every visit more rewarding and enjoyable. Membership gives access to bonuses, discounts, personalized offers, and special privileges.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Membership Levels<\/h4>\n        <p>\n          The program includes four tiers, each offering increasing benefits:\n        <\/p>\n<ul>\n            <li>\u2022 Casino Privil\u00e8ges \u2014 basic level, available upon registration.<\/li>\n            <li>\u2022 Privil\u00e8ges Plus \u2014 from 35,000 points.\n<\/li>\n            <li>\u2022 Prestige \u2014 from 35,000 points with additional conditions.\n<\/li>\n <li>\u2022 Prestige Plus \u2014 from 400,000 points per year (equivalent to $400,000 in wagers).\n<\/li>\n        <\/ul>\n<p>\n         Points are earned for every bet:\n$1 on slots or video poker = 1 point\n        <\/p>\n        <br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\"> Member Benefits<\/h4>\n\n<ul>\n            <li>\u2022 Up to 15% discounts at restaurants and bars.\n<\/li>\n            <li>\u2022 Discounts on concert and show tickets.\n<\/li>\n            <li>\u2022 Exclusive offers for stays at Hilton Lac-Leamy.\n<\/li>\n        <li>\u2022 Invitations to private events and VIP promotions.\n\n<\/li>\n        <li>\u2022 Personalized bonuses and gifts.\n\n<\/li>        <li>\u2022 Entry into special draws and tournaments.\n\n<\/li>\n        <\/ul>\n<br><h4 style = \"font-weight: bold; font-size: 24px;\">How to Earn Points?<\/h4>\n        <p>\n      Points are awarded for casino activity and purchases:\n        <\/p>\n  <ul>\n            <li>\u2022 Slot machines and video poker: 1 point for every CAD spent<\/li>\n            <li>\u2022 Table games: Points based on an internal system considering bets and playtime\n<\/li>\n            <li>\u2022 Restaurants, bars, and hotel: Points for every purchase\n<\/li>\n <li>\u2022 Special promotions and tournaments: Extra points for participation\n\n<\/li>\n      \n        <\/ul>\n\n\n\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment & Events at Casino du Lac-Leamy ",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino du Lac-Leamy Promotions\n<\/h3>\n\n<p> Casino du Lac-Leamy, located in Gatineau near Ottawa, is not just about gaming\u2014it\u2019s a full entertainment experience. From luxury hotel packages to seasonal events and dining deals, the casino offers a wide range of promotions designed to make your visit unforgettable.<\/p>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Hotel Packages: Stay & Play in Style<\/h4>\n        <ul>\n            <li>\u2022 Le Sorcier Golf Package \u2013 Overnight stay at Hilton Lac-Leamy plus a round of golf at one of Canada\u2019s top courses.<\/li>\n            <li>\u2022 Ar\u00f4me Package \u2013 Three-course dinner at Ar\u00f4me restaurant, overnight stay, and breakfast.\n<\/li>\n            <li>\u2022 Bed & Breakfast \u2013 Simple and elegant: a night at Hilton with breakfast included.\n<\/li>\n            <li>\u2022 Casino Night Package \u2013 Includes accommodation, breakfast, and gaming credits.\n<\/li>\n            <li>\u2022 Amerispa Serenity Package \u2013 Massage, foot care, and spa access.\n<\/li>\n            <li>\u2022 Amerispa Indulgence Package \u2013 Massage, facial treatment, and water zone access.\n\n<\/li>\n        <\/ul>\n        <br>\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal & Themed Events<\/h4>\n        <li>\u2022 Halloween Party \u2013 Spooky fun on October 31 and November 1.\n<\/li>\n            <li>\u2022 Bonus Hands Promo \u2013 Win up to $500 for special poker hands (Sept 29 \u2013 Nov 2).\n<\/li>\n            <li>\u2022 L\u2019Outaouais au menu \u2013 Taste local cuisine from Oct 30 to Nov 15.\n\n<\/li>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Gaming Promotions & Tournaments<\/h4>\n         <li>\u2022 Texas Hold\u2019em Tournaments \u2013 Every Monday, Tuesday, and Wednesday.\n<\/li>\n            <li>\u2022 Mini Blackjack Tournaments \u2013 Tuesdays at Bar 7.\n<\/li>\n            <li>\u2022 Group Specials \u2013 Exclusive packages for organized tours.\n\n<\/li>\n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\"> Exclusive Perks for Casino Privil\u00e8ges Members<\/h4>\n        <ul>\n            <li>\u2022 Monthly personalized offers.\n<\/li>\n            <li>\u2022 Extra points for dining and event participation.\n<\/li>\n            <li>\u2022 Early access to tickets for major events like New Year\u2019s Eve parties.\n\n<\/li>\n        <\/ul>\n        <br>\n\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Dining & Show Deals<\/h4>\n          <li>\u2022 Dinner & Show Packages \u2013 Enjoy a gourmet meal at Ar\u00f4me or Banco plus tickets to a live performance.\n<\/li>\n            <li>\u2022 Oyster Specials \u2013 $2 oysters at Ar\u00f4me (Sept\u2013Oct).\n<\/li>\n            <li>\u2022 15% Discount \u2013 On premium theater seats when booking dinner + show.\n\n<\/li>\n    <\/div>\n<\/div>\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nTop Casino Games at Casino du Lac-Leamy\n<\/h3>\n\n<p> Casino du Lac-Leamy, located in Gatineau, Quebec, offers a thrilling variety of games for every type of player \u2014 from casual visitors to high-stakes enthusiasts. With over 1,800 slot machines and 65+ table games, this casino is a top destination for gaming in Canada.<\/p>\n<br>\n\n <h4 style = \"font-weight: bold; font-size: 24px;\">Slot Machines: Spin & Win Big<\/h4>\n<p>Casino du Lac-Leamy features over 1,700 slot games, including:<\/p>\n        <ul>\n            <li>\u2022 Huff N\u2019 Even More Puff\u2122 \u2013 Progressive jackpot and bonus rounds\n<\/li>\n            <li>\u2022 Wild-themed, jungle, and magical universes \u2013 Giant curved screens and vivid graphics\n<\/li>\n            <li>\u2022 Classic 3-reel slots and 5-reel video slots \u2013 With cascading wins, sticky wilds, and multipliers\n<\/li>\n<li>\u2022 Progressive jackpots \u2013 Life-changing payouts on select machines\n\n<\/li>\n        <\/ul>\n <p>\n        These slots are designed for immersive gameplay, offering exciting themes and high-quality visuals.\n        <\/p>\n<br>\n\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Table Games: Classic Casino Action<\/h4>\n<p>Enjoy traditional table games with professional dealers or try electronic versions for a modern twist:\n\n<\/p>\n        <ul>\n            <li>\u2022 Blackjack \u2013 Including Free Bet Blackjack and Interactive Blackjack\n.<\/li>\n            <li>\u2022 Roulette \u2013 Classic and electronic formats\n<\/li>\n            <li>\u2022 Poker \u2013 Texas Hold\u2019em, Caribbean Stud, Mississippi Stud, 3 Card Poker, Pai Gow\n<\/li>\n   <li>\u2022 Craps & Sic Bo \u2013 Dice-based excitement\n<\/li>\n            <li>\u2022 Baccarat \u2013 Standard and EZ Baccarat versions\n<\/li>\n            <li>\u2022 War & I Luv Suits Poker \u2013 Unique twists on classic gameplay <\/li>\n        <\/ul>\n        <br>\n\n  <h4 style = \"font-weight: bold; font-size: 24px;\">Interactive Zone & Electronic Tables<\/h4>\n<p>For beginners or tech-savvy players, the Interactive Zone offers:\n\n<\/p>\n        <ul>\n            <li>\u2022 Electronic Blackjack, Poker, Roulette, Craps, Sic Bo\n\n<\/li>\n            <li>\u2022 Touchscreen terminals with tutorials and low minimum bets\n\n<\/li>\n            <li>\u2022 A social, high-energy atmosphere perfect for learning or relaxing\n<\/li>\n \n        <\/ul>\n        <br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCasino du Lac-Leamy Betting Limits\n<\/h3>\n\n<p>Whether you're a casual player or a high roller, knowing the betting limits can help you choose the right games for your budget. Below is a detailed table of minimum and maximum bets across popular games at the casino.<\/p>\n\n<br>\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#11163d; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$0.10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack (Standard)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $5,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Free Bet Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette (American\/Euro)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$2 <\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $2,000 <\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat \/ EZ Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $5,000<\/td>\n                <\/tr>\n   <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Craps<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $5,000<\/td>\n                <\/tr>\n   <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (Texas Hold\u2019em)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1\/$2 blinds<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> No-limit<\/td>\n                <\/tr>\n   <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Three Card Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$5<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500<\/td>\n                <\/tr>\n   <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Pai Gow Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$10<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $1,000<\/td>\n                <\/tr>\n   <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Sic Bo<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $500<\/td>\n                <\/tr>\n  <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Interactive Zone Games<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">$1<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\"> $20<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<br><h3 style = \"font-weight: bold;font-size: 32px;\">\nCulinary, Wellness, and Hospitality Experience at Casino du Lac-Leamy\n<\/h3>\n\n<p> Casino du Lac-Leamy in Gatineau, Quebec, is not just a gaming destination; it\u2019s a full-service entertainment complex where fine dining, vibrant nightlife, and luxurious relaxation come together. Visitors can indulge in award-winning gastronomy, unwind in a world-class spa, and enjoy the comfort of a five-star hotel\u2014all under one roof.<\/p>\n\n<br>\n<p> The culinary experience begins at Le Baccara, a renowned fine-dining restaurant celebrated for its sophisticated menu and exceptional wine selection. For those who prefer a more casual atmosphere, Ar\u00f4me Grillades et Fruits de Mer offers premium seafood and grilled specialties with stunning views of Lac de la Carri\u00e8re, while Banco Bistro serves comforting favorites like pizza, burgers, and poutine. Guests looking for light bites and refreshing drinks can relax at the TGV Lounge, located near the Hilton pool area.<\/p>\n\n<br>\n<p>Nightlife at Casino du Lac-Leamy is equally impressive. Bar 7 is the heartbeat of the gaming floor, hosting live music and DJ sets from Thursday to Sunday, creating an energetic vibe for party lovers. For a more exclusive experience, Club Al\u00e9a delivers a chic nightclub atmosphere with themed events, while Bacchus Lounge provides a refined setting for cigar enthusiasts, complete with panoramic lake views.<\/p>\n\n<br>\n<p>The luxury continues at Hilton Lac-Leamy, a five-star hotel directly connected to the casino. With 349 elegantly designed rooms and suites, the hotel offers indoor and outdoor pools, a fitness center, and conference facilities, making it ideal for both leisure and business travelers. Guests are greeted by stunning glass sculptures by Dale Chihuly, adding an artistic touch to the sophisticated ambiance.<\/p>\n\n<br>\n<p>For ultimate relaxation, Amerispa Hilton Lac-Leamy provides a sanctuary of wellness. Visitors can choose from a wide range of treatments, including massages, facials, and body care, complemented by serene water zones. Signature packages like Serenity and Indulgence combine therapeutic massages with specialized beauty treatments, ensuring a rejuvenating experience.<\/p>\n\n<br>\n<p> Casino du Lac-Leamy is more than a gaming venue\u2014it\u2019s a destination where gastronomy, entertainment, and luxury converge. Whether you\u2019re savoring gourmet cuisine, dancing the night away, or indulging in spa treatments, every moment here is designed to elevate your experience.<\/p>\n\n<br>\n\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nSpecial Events and Shows at Casino du Lac-Leamy\n<\/h3>\n\n<p>Casino du Lac-Leamy in Gatineau, Quebec, is not just a hub for gaming excitement but also a premier destination for cultural and entertainment experiences. Every visit becomes unforgettable thanks to a vibrant lineup of concerts, theatrical performances, and themed parties. The casino\u2019s 1,100-seat theater regularly hosts renowned artists and tribute shows that attract fans from across Canada. Guests can enjoy musical evenings featuring Motown classics, disco-themed performances reminiscent of the 70s, and iconic Broadway productions like Chicago. Live music lovers will appreciate concerts by bands such as Honeymoon Suite, Kiss tribute acts, and shows celebrating the legacy of Joe Dassin.<\/p>\n<br>\n<p>Casino du Lac-Leamy in Gatineau, Quebec, is not just a hub for gaming excitement but also a premier destination for cultural and entertainment experiences. Every visit becomes unforgettable thanks to a vibrant lineup of concerts, theatrical performances, and themed parties. The casino\u2019s 1,100-seat theater regularly hosts renowned artists and tribute shows that attract fans from across Canada. Guests can enjoy musical evenings featuring Motown classics, disco-themed performances reminiscent of the 70s, and iconic Broadway productions like Chicago. Live music lovers will appreciate concerts by bands such as Honeymoon Suite, Kiss tribute acts, and shows celebrating the legacy of Joe Dassin.<\/p>\n<br>\n<p> Casino du Lac-Leamy ensures every guest feels part of something extraordinary. Visitors can enjoy gaming, indulge in fine dining, and end the evening with a spectacular performance\u2014all under one roof. This unique blend of excitement and culture makes the casino a perfect destination for anyone seeking an unforgettable experience. If you\u2019re looking for a place where entertainment meets elegance, Casino du Lac-Leamy is the ultimate choice.<\/p>\n<br>"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, debit and credit cards, as well as bank checks. ATMs are available on-site.\n"
+                },
+                {
+                    "title": "Are there entertainment shows?",
+                    "answer": "Yes, the 1,100-seat theater hosts concerts, comedy shows, and special events.\n"
+                },
+                {
+                    "title": "Can I book a hotel room near the casino?",
+                    "answer": "Yes, the casino is connected to Hilton Lac-Leamy \u2014 a 5-star hotel with pools, a spa, and restaurants.\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/190",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Paf Casino"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

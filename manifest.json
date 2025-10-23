@@ -1,0 +1,19 @@
+{
+  "name": "Casino du Lac-Leamy",
+  "short_name": "Casino du Lac-Leamy",
+  "theme_color": "",
+  "background_color": "#262D6D",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761134896-215-2150413-casino-du-lac-leamy-casino-lac-leamy-logo-cr-removebg-preview.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
